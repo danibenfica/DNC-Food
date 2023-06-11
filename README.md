@@ -1,3 +1,6 @@
+![dnc food](https://github.com/danibenfica/dnc-food/assets/103818625/2fb54b8b-4c9f-49e5-8e81-a2315e783011)
+
+
 ## Documentação do Projeto DNC Food
 
 ### Descrição
