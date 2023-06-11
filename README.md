@@ -8,6 +8,9 @@ Este projeto é um aplicativo de compras online, onde os usuários podem visuali
 Gostaria de esclarecer que a estrutura base deste projeto não foi criada por mim, mas sim pelo professor Gabriel da DNC, durante a aula. Fui responsável apenas por adaptar essa estrutura para atender aos requisitos do projeto solicitado.
 A adaptação envolveu a criação de componentes adicionais, a integração de dados simulados e a personalização do estilo visual por meio do uso de arquivos SCSS. Também foi implementado um modal utilizando o próprio React.
 
+[Link para o projeto original](https://github.com/gabrielss97/dnc-ecommerce-dinamicc)
+
+
 
 ### Instalação
 Para instalar e executar o projeto, siga as etapas abaixo:
