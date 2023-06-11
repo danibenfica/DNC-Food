@@ -10,7 +10,7 @@ export default function Header() {
       <img src={d} alt="letra d" id="d" />
       <img src={n} alt="letra n" id="n" />
       <img src={c} alt="letra c" id="c"/>
-      <a className="food" href="http://localhost:5174/">Food</a>
+      <a className="food" href="https://dnc-food.vercel.app/">Food</a>
       <a href="">Variedades</a>
       <a href="">Lanches</a>
       <a href="">Pizzas</a>
