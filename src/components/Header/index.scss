@@ -72,3 +72,84 @@
   left: 78rem;
   top: 0.625rem;
 }
+
+@media screen and (min-width: 320px) and (max-width:480px){
+  .Header {
+    width: 480px;
+  }
+
+  .Header #d {
+    width: 20px;
+  }
+
+  .Header #n {
+    width: 20px;
+    top: 3.70%;
+    left: 9.65%;
+
+  }
+  .Header #c {
+
+    width: 20px;
+    top: 3.70%;
+    left: 16.65%;
+    
+
+  }
+
+  .Header .food {
+    left: 5rem;
+    top: 0.75rem;
+    font-size: 0.9375rem;
+    
+  }
+
+  #variedades {
+    font-size: 0.75rem;
+    margin-left: -1.25rem;
+    
+  }
+
+  #lanches {
+    font-size: 0.75rem;
+    margin-left: -1.25rem;
+    
+  }
+
+  #pizzas {
+    font-size: 0.75rem;
+    margin-left: -11.875rem;
+    margin-top: 1.25rem;
+    
+  }
+
+  #doces {
+    margin-left: 0.625rem;
+    font-size: 0.75rem;
+    margin-top: 1.25rem;
+    
+  }
+
+  #promocoes {
+    font-size: 0.75rem;
+    margin-left: -11rem;
+    margin-top: 2.5rem;
+    
+  }
+
+  .Header .minhasCompras {
+    margin-left: -65.625rem;
+    margin-top: 1.25rem;
+    font-size: 0.75rem;
+    
+  }
+
+  .Header .carrinho {
+    margin-left: -75rem;
+    margin-top: 3.75rem;
+    width: 3.125rem;
+    height: 2.5rem;
+    
+  }
+
+}

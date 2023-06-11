@@ -11,11 +11,11 @@ export default function Header() {
       <img src={n} alt="letra n" id="n" />
       <img src={c} alt="letra c" id="c"/>
       <a className="food" href="https://dnc-food.vercel.app/">Food</a>
-      <a href="">Variedades</a>
-      <a href="">Lanches</a>
-      <a href="">Pizzas</a>
-      <a href="">Doces</a>
-      <a href="">Promoções</a>
+      <a href="" id="variedades">Variedades</a>
+      <a href="" id="lanches">Lanches</a>
+      <a href="" id="pizzas">Pizzas</a>
+      <a href="" id="doces">Doces</a>
+      <a href="" id="promocoes">Promoções</a>
       <p className="minhasCompras">Minhas Compras</p>
       <img src={carrinho} alt="carrinho" className="carrinho" />
     </div>

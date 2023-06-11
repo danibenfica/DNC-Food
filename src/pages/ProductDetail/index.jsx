@@ -25,7 +25,7 @@ export default function ProductDetail() {
           <img src={product.imgPath} alt="" />
           <h1>{product.title}</h1>
         </div>
-        <h4>{product.info}</h4>
+        <h4 id="info1">{product.info}</h4>
       </div>
       <div className="ProductDetail__cart">
         <h2>Minha Sacola</h2>

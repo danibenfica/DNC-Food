@@ -30,6 +30,7 @@ export default function Card({ data }) {
         isOpen={isModalOpen}
         onRequestClose={closeModal}
         contentLabel="Detalhes do Produto"
+        className="Modal"
       >
         <h2 className="titleModal">{data.title}</h2>
         <img src={data.imgPath} alt={data.title} className="imgModal" />
