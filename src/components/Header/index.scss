@@ -1,0 +1,74 @@
+.Header {
+  display: flex;
+  gap: 3rem;
+  padding: 2rem 15rem;
+  background-color: rgba(227, 159, 11, 1);
+  width: 100%;
+  font-weight: bold;
+}
+
+.Header a {
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+}
+
+.Header #d {
+  position: absolute;
+  left: 2.43%;
+  right: 95.61%;
+  top: 2.80%;
+  bottom: 93.48%;
+}
+
+.Header #n {
+  position: absolute;
+  left: 4.65%;
+  right: 93.64%;
+  top: 4.09%;
+  bottom: 93.53%;
+}
+
+.Header #c {
+  position: absolute;
+  left: 6.53%;
+  right: 91.73%;
+  top: 4.09%;
+  bottom: 93.48%;
+}
+
+.Header .food {
+  position: absolute;
+  width: 4.0625rem;
+  height: 1.8125rem;
+  left: 7.9375rem;
+  top: 1.5625rem;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.5625rem;
+  line-height: 1.8125rem;
+  color: white;
+}
+
+.Header .minhasCompras {
+  position: absolute;
+  width: 11.1875rem;
+  height: 1.4375rem;
+  left: 66.875rem;
+  top: 2rem;
+  color: white;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.375rem;
+  line-height: 1.625rem;
+}
+
+.Header .carrinho {
+  position: absolute;
+  width: 5.0625rem;
+  height: 3.5625rem;
+  left: 78rem;
+  top: 0.625rem;
+}
